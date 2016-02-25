@@ -11,7 +11,7 @@
         <spring.version>4.2.4.RELEASE</spring.version>
         <javax.servlet>3.1.0</javax.servlet>
         <spring-data-jpa>1.9.2.RELEASE</spring-data-jpa>
-        <hibernate>5.0.7.Final</hibernate>
+        <hibernate>5.0.2.Final</hibernate>
         <jdbc>9.1-901-1.jdbc4</jdbc>
         <dbcp>2.1.1</dbcp>
     </properties>
@@ -38,6 +38,12 @@
             <artifactId>spring-data-jpa</artifactId>
             <version>${spring-data-jpa}</version>
         </dependency>
+        <dependency>
+            <groupId>javax.transaction</groupId>
+            <artifactId>jta</artifactId>
+            <version>1.1</version>
+        </dependency>
+
         <dependency>
             <groupId>org.hibernate</groupId>
             <artifactId>hibernate-entitymanager</artifactId>
