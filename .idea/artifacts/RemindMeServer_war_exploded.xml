@@ -15,6 +15,9 @@
           <element id="library" level="project" name="Maven: org.springframework:spring-expression:4.2.4.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-web:4.2.4.RELEASE" />
           <element id="library" level="project" name="Maven: javax.servlet:javax.servlet-api:3.1.0" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.7.1-1" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.7.0" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.7.1" />
           <element id="library" level="project" name="Maven: org.springframework.data:spring-data-jpa:1.9.2.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework.data:spring-data-commons:1.11.2.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-orm:4.1.9.RELEASE" />
