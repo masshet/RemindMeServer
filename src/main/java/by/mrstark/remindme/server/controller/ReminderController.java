@@ -24,6 +24,6 @@ public class ReminderController {
         remind.setRemindDate(new Date());
         remind.setTitle("My first remind");
 
-        return null;
+        return remind;
     }
 }
